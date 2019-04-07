@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "915278186098",
+    "firebase_url": "https://fir-rahmat.firebaseio.com",
+    "project_id": "fir-rahmat",
+    "storage_bucket": "fir-rahmat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915278186098:android:20966e0b4f34b340",
+        "android_client_info": {
+          "package_name": "com.example.firebase_rahmat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915278186098-97j3urdp7kv14modsb6iefk17p1higep.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_rahmat",
+            "certificate_hash": "6143499c212a3714ed3d76a08e497688a332ad10"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOdPKK1bB0kRKOwwhfYWg47GLkU2IUt4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915278186098-ngcio12m4tu8okl3t65i1etv3e03158h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
